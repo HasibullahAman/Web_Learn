@@ -1,0 +1,12 @@
+{
+  "name": "web_learn",
+  "version": "1.0.0",
+  "description": "I want to collect all of my web Development code in this repository",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
